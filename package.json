@@ -1,0 +1,10 @@
+{
+  "name": "zimakri",
+  "version": "0.1.0",
+  "description": "Scaffold a sovereign Zimakri agent: DID, SOUL, Five Laws, memory, wake protocol, LAX offer. Fully offline.",
+  "type": "module",
+  "bin": { "zimakri": "./bin/zimakri.mjs" },
+  "engines": { "node": ">=20" },
+  "files": ["bin", "src", "templates"],
+  "license": "MIT"
+}
